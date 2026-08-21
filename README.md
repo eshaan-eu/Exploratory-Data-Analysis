@@ -56,7 +56,7 @@ By querying across these interconnected tables, I extracted insights about skill
 ## 📂 Repository Structure
 
 ```text
-1_EDA/
+Repository /
 ├── 01_top_demanded_skills.sql    # Demand analysis query
 ├── 02_top_paying_skills.sql      # Salary analysis query
 ├── 03_optimal_skills.sql         # Combined demand/salary optimization
